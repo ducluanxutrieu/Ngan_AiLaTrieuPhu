@@ -1,0 +1,24 @@
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\bin\Debug\MC.exe.config
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\bin\Debug\MC.exe
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\bin\Debug\MC.pdb
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.Host.resources
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\Gameshow.MC.resources
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.Properties.Resources.resources
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.csproj.GenerateResource.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.csproj.CoreCompileInputs.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.exe
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.pdb
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.csprojAssemblyReference.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Gameshow\obj\Debug\MC.MC.resources
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\bin\Debug\MC.exe.config
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\bin\Debug\MC.exe
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\bin\Debug\MC.pdb
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.csprojAssemblyReference.cache
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.Host.resources
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\Gameshow.MC.resources
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.mc.resources
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.Properties.Resources.resources
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.csproj.GenerateResource.cache
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.csproj.CoreCompileInputs.cache
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.exe
+C:\Users\LuanTran\Downloads\Gameshow\Gameshow\obj\Debug\MC.pdb

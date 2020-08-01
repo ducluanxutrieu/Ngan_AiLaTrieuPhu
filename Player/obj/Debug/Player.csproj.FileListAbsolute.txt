@@ -1,0 +1,20 @@
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\bin\Debug\Player.exe.config
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\bin\Debug\Player.exe
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\bin\Debug\Player.pdb
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.Client.resources
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.exe
+C:\Users\NTN\Desktop\DACK_LTW\Ai la trieu phu\Gameshow\Player\obj\Debug\Player.pdb
+C:\Users\LuanTran\Downloads\Gameshow\Player\bin\Debug\Player.exe.config
+C:\Users\LuanTran\Downloads\Gameshow\Player\bin\Debug\Player.exe
+C:\Users\LuanTran\Downloads\Gameshow\Player\bin\Debug\Player.pdb
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.csprojAssemblyReference.cache
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.Client.resources
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.csproj.GenerateResource.cache
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.exe
+C:\Users\LuanTran\Downloads\Gameshow\Player\obj\Debug\Player.pdb

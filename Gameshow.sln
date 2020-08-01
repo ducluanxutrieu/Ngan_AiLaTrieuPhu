@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC", "Gameshow\MC.csproj", "{5852AFBD-F728-4DE8-BA08-7E618B1CB810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{C5B71187-A237-4C4A-AE1F-8C418DD0592C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5852AFBD-F728-4DE8-BA08-7E618B1CB810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5852AFBD-F728-4DE8-BA08-7E618B1CB810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5852AFBD-F728-4DE8-BA08-7E618B1CB810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5852AFBD-F728-4DE8-BA08-7E618B1CB810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B71187-A237-4C4A-AE1F-8C418DD0592C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B71187-A237-4C4A-AE1F-8C418DD0592C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B71187-A237-4C4A-AE1F-8C418DD0592C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B71187-A237-4C4A-AE1F-8C418DD0592C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356A1941-6FCE-4331-9799-F0B3E8B7C6D9}
+	EndGlobalSection
+EndGlobal
