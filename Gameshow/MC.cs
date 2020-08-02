@@ -174,7 +174,6 @@ namespace MC
         {
             CauHoi temp = null;
             string[] lines = File.ReadAllLines(@Application.StartupPath + @"\resource\DanhSachCauHoi.txt");
-            MessageBox.Show(@Application.StartupPath + @"\resource\DanhSachCauHoi.txt");
             foreach (string s in lines)
             {
                 if (s.StartsWith("@@"))
